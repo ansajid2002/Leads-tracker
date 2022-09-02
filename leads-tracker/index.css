@@ -1,0 +1,44 @@
+body {
+    background:black;
+    margin:0;
+    padding:10px;
+    min-width:300px;
+}
+
+input {
+    width:100%;
+    box-sizing: border-box;
+    padding:10px;
+    margin-bottom:5px;
+    border:1px solid blue;
+    font-size:20px;
+}
+button {
+    color:blue;
+    background:lightcyan;
+    font-weight:bold;
+    padding:10px 20px;
+    font-size:20px;
+    
+}
+#delete-btn {
+    color:lightcyan;
+    background:blue;
+}
+
+/* styling the lists*/
+ul {
+    list-style:none;
+    padding-left:0px;
+    margin-top:10px;
+    
+}
+li {
+    font-size:16px;
+    font-weight:bold;
+    margin-top:5px;
+    
+}
+a {
+    color:blue;
+}
